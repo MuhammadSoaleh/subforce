@@ -1,0 +1,100 @@
+ .nav {}
+
+ .socialicons {
+     position: absolute;
+     left: 70%;
+     top: -5%;
+     padding-top: -30%;
+ }
+
+ .socialicon {
+     position: absolute;
+     left: 75%;
+     padding-top: -30%;
+     top: -5%;
+ }
+
+ .socialico {
+     position: absolute;
+     left: 80%;
+     padding-top: -30%;
+     top: -5%;
+ }
+
+ .to {
+     width: 100% !important;
+
+     overflow: hidden !important;
+ }
+
+ .grey-colored {
+     color: grey;
+ }
+
+ .section2 {
+     background-image: url('middle-mobile.png');
+ }
+
+ .h2 {
+     text-transform: bold;
+ }
+
+ /* .head{
+            position: absolute;
+            top: 20%;
+        } */
+
+ .news {
+     position: absolute;
+     left: 10%;
+     top: 25%;
+ }
+
+ .newss {
+     position: absolute;
+     left: 10%;
+     top: 30%;
+ }
+
+ .newss {
+     position: absolute;
+     left: 10%;
+     top: 35%;
+ }
+
+ .newsss {
+     position: absolute;
+     left: 10%;
+     top: 40%;
+ }
+
+ .newssss {
+     position: absolute;
+     left: 10%;
+     top: 45%;
+ }
+
+ .svg {
+     position: absolute;
+     left: 10.3%;
+     top: 27%;
+     height: 25px ;
+ }
+
+ .svgs {
+     position: absolute;
+     left: 10.3%;
+     top: 38%;
+ }
+
+ .svgss {
+     position: absolute;
+     left: 10.3%;
+     top: 43%;
+ }
+ pre{
+    border: 2px ridge red;
+    height: 50px!important;
+    text-align: center;
+    text-size-adjust: 100%;
+ }
